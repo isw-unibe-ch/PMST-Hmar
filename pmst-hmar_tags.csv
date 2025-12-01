@@ -1,0 +1,4 @@
+tag_id,tag_column_name,comment,language_id
+default,paradigm_tag,"unmarked form (most general, most frequent, etc.) or form that has no other tag",hmar
+emph,paradigm_tag,emphatic paradigm,hmar
+pragm_marked,paradigm_tag,pragmatically conditioned variation,hmar

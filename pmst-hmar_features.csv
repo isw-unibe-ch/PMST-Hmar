@@ -1,0 +1,12 @@
+value_id,label,feature,unimorph,language_id
+excl,exclusive,clusivity,EXCL,hmar
+incl,inclusive,clusivity,INCL,hmar
+pl,plural,number,PL,hmar
+sg,singular,number,SG,hmar
+1,first person,person,1,hmar
+2,second person,person,2,hmar
+3,third person,person,3,hmar
+aff,affirmative,polarity,POS,hmar
+neg,negative,polarity,NEG,hmar
+fut,future,tense_aspect,FUT,hmar
+nfut,non-future,tense_aspect,,hmar

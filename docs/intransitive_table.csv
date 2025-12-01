@@ -1,0 +1,53 @@
+person,analysed_phon_form,paradigm_tag
+FUT.AFF,,
+1SG,Σ + ŋ + k a + t i ʔ,default
+1SG,k a + Σ + d i ŋ,pragm_marked
+1PLI,Σ + ŋ + ei + t i ʔ,default
+1PLE,Σ + ŋ + k a + n + t i ʔ,default
+1PLI,ei + Σ + d i ŋ,pragm_marked
+1PLE,k a + n + Σ + d i ŋ,pragm_marked
+2SG,Σ + ŋ + i + t i ʔ,default
+2SG,i + Σ + d i ŋ,pragm_marked
+2PL,Σ + ŋ + i + n + t i ʔ,default
+2PL,i + n + Σ + d i ŋ,pragm_marked
+3SG,Σ + ŋ + a + t i ʔ,default
+3SG,a + Σ + d i ŋ,pragm_marked
+3PL,Σ + ŋ + a + n + t i ʔ,default
+3PL,a + n + Σ + d i ŋ,pragm_marked
+FUT.NEG,,
+1SG,Σ + n ɔ + ŋ + k a + t i ʔ,default
+1SG,k a + Σ + n ɔ + d i ŋ,pragm_marked
+1SG,Σ + n ɔ + n i + ŋ,emph
+1PLI,Σ + n ɔ + ŋ + ei + t i ʔ,default
+1PLE,Σ + n ɔ + ŋ + k a + n + t i ʔ,default
+1PLI,ei + Σ + n ɔ + d i ŋ,pragm_marked
+1PLE,k a + n + Σ + n ɔ + d i ŋ,pragm_marked
+1PLI,Σ + n ɔ + m ei + n i ʔ,emph
+2SG,Σ + n ɔ + ŋ + i + t i ʔ,default
+2SG,i + Σ + n ɔ + d i ŋ,pragm_marked
+2SG,Σ + n ɔ + t i + n i ʔ,emph
+2PL,Σ + n ɔ + ŋ + i + n + t i ʔ,default
+2PL,i + n + Σ + n ɔ + d i ŋ,pragm_marked
+2PL,Σ + n ɔ + t i + n i + u,emph
+3SG,Σ + n ɔ + ŋ + a + t i ʔ,default
+3SG,a + Σ + n ɔ + d i ŋ,pragm_marked
+3SG,Σ + n ɔ + n i ʔ,emph
+3PL,Σ + n ɔ + ŋ + a + n + t i ʔ,default
+3PL,Σ + n ɔ + n i + h a i,emph
+3PL,a + n + Σ + n ɔ + d i ŋ,pragm_marked
+NFUT.AFF,,
+1SG,k a + Σ,default
+1PLI,ei + Σ,default
+1PLE,k a + n + Σ,default
+2SG,i + Σ,default
+2PL,i + n + Σ,default
+3SG,a + Σ,default
+3PL,a + n + Σ,default
+NFUT.NEG,,
+1SG,k a + Σ + n ɔ ʔ,default
+1PLI,ei + Σ + n ɔ ʔ,default
+1PLE,k a + n + Σ + n ɔ ʔ,default
+2SG,i + Σ + n ɔ ʔ,default
+2PL,i + n + Σ + n ɔ ʔ,default
+3SG,a + Σ + n ɔ ʔ,default
+3PL,a + n + Σ + n ɔ ʔ,default

@@ -1,0 +1,268 @@
+form_id,lexeme,cell,source_form,orth_form,phon_form,analysed_orth_form,analysed_phon_form,paradigm_tag,source,page,language_id
+hmar001,no_stem,1.sg,kei,kei,k ei,kei,k ei,default,Infimate2025Hmar,nopage,hmar
+hmar002,no_stem,1.pl.excl,kei-ni,keini,k ei n i,kei+ni,k ei + n i,default,Infimate2025Hmar,nopage,hmar
+hmar003,no_stem,1.pl.incl,ei-ni,eini,ei n i,ei+ni,ei + n i,default,Infimate2025Hmar,nopage,hmar
+hmar004,no_stem,2.sg,naŋ,naŋ,n a ŋ,naŋ,n a ŋ,default,Infimate2025Hmar,nopage,hmar
+hmar005,no_stem,2.pl,naŋ-ni,naŋni,n a ŋ n i,naŋ+ni,n a ŋ + n i,default,Infimate2025Hmar,nopage,hmar
+hmar006,no_stem,3.sg,ama,ama,a m a,ama,a m a,default,Infimate2025Hmar,nopage,hmar
+hmar007,no_stem,3.pl,an-ni,anni,a n n i,an+ni,a n + n i,default,Infimate2025Hmar,nopage,hmar
+hmar008,fe,1.sg.fut.aff,feŋ ka tiʔ ,Σŋkatiʔ,Σ ŋ k a t i ʔ,Σ+ŋ+ka+tiʔ,Σ + ŋ + k a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar009,fe,1.sg.fut.aff,ka fe diŋ ,kaΣdiŋ,k a Σ d i ŋ,ka+Σ+diŋ,k a + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar010,fe,1.pl.incl.fut.aff,feŋ ei tiʔ ,Σŋeitiʔ,Σ ŋ ei t i ʔ,Σ+ŋ+ei+tiʔ,Σ + ŋ + ei + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar011,fe,1.pl.excl.fut.aff,feŋ kan tiʔ,Σŋkantiʔ,Σ ŋ k a n t i ʔ,Σ+ŋ+ka+n+tiʔ,Σ + ŋ + k a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar012,fe,1.pl.incl.fut.aff,ei fe diŋ ,eiΣdiŋ,ei Σ d i ŋ,ei+Σ+diŋ,ei + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar013,fe,1.pl.excl.fut.aff,kan fe diŋ ,kanΣdiŋ,k a n Σ d i ŋ,ka+n+Σ+diŋ,k a + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar014,mu,1.sg.2.sg.fut.aff,ka m̥u diŋ ce,kaΣdiŋce,k a Σ d i ŋ ts e,ka+Σ+diŋ+ce,k a + Σ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar015,mu,1.sg.2.sg.fut.aff,m̥uuŋ ka ti ce,Σŋkatice,Σ ŋ k a t i ts e,Σ+ŋ+ka+ti+ce,Σ + ŋ + k a + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar016,mu,1.sg.2.pl.fut.aff,ka m̥u diŋ ceu,kaΣdiŋceu,k a Σ d i ŋ ts e u,ka+Σ+diŋ+ce+u,k a + Σ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar017,mu,1.sg.2.pl.fut.aff,m̥uuŋ ka ti ceu,Σŋkaticeu,Σ ŋ k a t i ts e u,Σ+ŋ+ka+ti+ce+u,Σ + ŋ + k a + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar018,mu,1.pl.excl.2.sg.fut.aff,kan m̥u diŋ ce,kanΣdiŋce,k a n Σ d i ŋ ts e,ka+n+Σ+diŋ+ce,k a + n + Σ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar019,mu,1.pl.excl.2.sg.fut.aff,m̥uuŋ kan ti ce,Σŋkantice,Σ ŋ k a n t i ts e,Σ+ŋ+ka+n+ti+ce,Σ + ŋ + k a + n + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar020,mu,1.pl.excl.2.pl.fut.aff,kan m̥u diŋ ceu,kanΣdiŋceu,k a n Σ d i ŋ ts e u,ka+n+Σ+diŋ+ce+u,k a + n + Σ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar021,mu,1.pl.excl.2.pl.fut.aff,m̥uuŋ kan ti ceu,Σŋkanticeu,Σ ŋ k a n t i ts e u,Σ+ŋ+ka+n+ti+ce+u,Σ + ŋ + k a + n + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar022,mu,1.sg.3.sg.fut.aff,m̥uuŋ ka tiʔ,Σŋkatiʔ,Σ ŋ k a t i ʔ,Σ+ŋ+ka+tiʔ,Σ + ŋ + k a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar023,mu,1.sg.3.sg.fut.aff,ka m̥u diŋ,kaΣdiŋ,k a Σ d i ŋ,ka+Σ+diŋ,k a + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar024,mu,1.sg.3.pl.fut.aff,m̥uuŋ ka tiʔ,Σŋkatiʔ,Σ ŋ k a t i ʔ,Σ+ŋ+ka+tiʔ,Σ + ŋ + k a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar025,mu,1.sg.3.pl.fut.aff,ka m̥u diŋ,kaΣdiŋ,k a Σ d i ŋ,ka+Σ+diŋ,k a + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar026,mu,1.pl.incl.3.sg.fut.aff,m̥uuŋ ei tiʔ,Σŋeitiʔ,Σ ŋ ei t i ʔ,Σ+ŋ+ei+tiʔ,Σ + ŋ + ei + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar027,mu,1.pl.excl.3.sg.fut.aff,m̥uuŋ kan tiʔ,Σŋkantiʔ,Σ ŋ k a n t i ʔ,Σ+ŋ+ka+n+tiʔ,Σ + ŋ + k a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar028,mu,1.pl.incl.3.sg.fut.aff,ei m̥u diŋ,eiΣdiŋ,ei Σ d i ŋ,ei+Σ+diŋ,ei + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar029,mu,1.pl.excl.3.sg.fut.aff,kan m̥u diŋ,kanΣdiŋ,k a n Σ d i ŋ,ka+n+Σ+diŋ,k a + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar030,mu,1.pl.incl.3.pl.fut.aff,m̥uuŋ ei tiʔ,Σŋeitiʔ,Σ ŋ ei t i ʔ,Σ+ŋ+ei+tiʔ,Σ + ŋ + ei + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar031,mu,1.pl.excl.3.pl.fut.aff,m̥uuŋ kan tiʔ,Σŋkantiʔ,Σ ŋ k a n t i ʔ,Σ+ŋ+ka+n+tiʔ,Σ + ŋ + k a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar032,mu,1.pl.incl.3.pl.fut.aff,ei m̥u diŋ,eiΣdiŋ,ei Σ d i ŋ,ei+Σ+diŋ,ei + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar033,mu,1.pl.excl.3.pl.fut.aff,kan m̥u diŋ,kanΣdiŋ,k a n Σ d i ŋ,ka+n+Σ+diŋ,k a + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar034,fe,2.sg.fut.aff,feŋ i tiʔ ,Σŋitiʔ,Σ ŋ i t i ʔ,Σ+ŋ+i+tiʔ,Σ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar035,fe,2.sg.fut.aff,i fe diŋ,iΣdiŋ,i Σ d i ŋ,i+Σ+diŋ,i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar036,fe,2.pl.fut.aff,feŋ in tiʔ ,Σŋintiʔ,Σ ŋ i n t i ʔ,Σ+ŋ+i+n+tiʔ,Σ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar037,fe,2.pl.fut.aff,in fe diŋ ,inΣdiŋ,i n Σ d i ŋ,i+n+Σ+diŋ,i + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar038,mu,2.sg.1.sg.fut.aff,mi m̥uuŋ i tiʔ,miΣŋitiʔ,m i Σ ŋ i t i ʔ,mi+Σ+ŋ+i+tiʔ,m i + Σ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar039,mu,2.sg.1.sg.fut.aff,i mi m̥u diŋ,imiΣdiŋ,i m i Σ d i ŋ,i+mi+Σ+diŋ,i + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar040,mu,2.sg.1.pl.excl.fut.aff,mi m̥uuŋ i tiʔ,miΣŋitiʔ,m i Σ ŋ i t i ʔ,mi+Σ+ŋ+i+tiʔ,m i + Σ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar041,mu,2.sg.1.pl.excl.fut.aff,i mi m̥u diŋ,imiΣdiŋ,i m i Σ d i ŋ,i+mi+Σ+diŋ,i + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar042,mu,2.pl.1.sg.fut.aff,mi m̥uuŋ in tiʔ,miΣŋintiʔ,m i Σ ŋ i n t i ʔ,mi+Σ+ŋ+i+n+tiʔ,m i + Σ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar043,mu,2.pl.1.sg.fut.aff,in mi m̥u diŋ,inmiΣdiŋ,i n m i Σ d i ŋ,i+n+mi+Σ+diŋ,i + n + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar044,mu,2.pl.1.pl.excl.fut.aff,mi m̥uuŋ in tiʔ,miΣŋintiʔ,m i Σ ŋ i n t i ʔ,mi+Σ+ŋ+i+n+tiʔ,m i + Σ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar045,mu,2.pl.1.pl.excl.fut.aff,in mi m̥u diŋ,inmiΣdiŋ,i n m i Σ d i ŋ,i+n+mi+Σ+diŋ,i + n + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar046,mu,2.sg.3.sg.fut.aff,m̥uuŋ i tiʔ,Σŋitiʔ,Σ ŋ i t i ʔ,Σ+ŋ+i+tiʔ,Σ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar047,mu,2.sg.3.sg.fut.aff,i m̥u diŋ,iΣdiŋ,i Σ d i ŋ,i+Σ+diŋ,i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar048,mu,2.sg.3.pl.fut.aff,m̥uuŋ i tiʔ,Σŋitiʔ,Σ ŋ i t i ʔ,Σ+ŋ+i+tiʔ,Σ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar049,mu,2.sg.3.pl.fut.aff,i m̥u diŋ,iΣdiŋ,i Σ d i ŋ,i+Σ+diŋ,i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar050,mu,2.pl.3.sg.fut.aff,m̥uuŋ in tiʔ,Σŋintiʔ,Σ ŋ i n t i ʔ,Σ+ŋ+i+n+tiʔ,Σ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar051,mu,2.pl.3.sg.fut.aff,in m̥u diŋ,inΣdiŋ,i n Σ d i ŋ,i+n+Σ+diŋ,i + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar052,mu,2.pl.3.pl.fut.aff,m̥uuŋ in tiʔ,Σŋintiʔ,Σ ŋ i n t i ʔ,Σ+ŋ+i+n+tiʔ,Σ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar053,mu,2.pl.3.pl.fut.aff,in m̥u diŋ,inΣdiŋ,i n Σ d i ŋ,i+n+Σ+diŋ,i + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar054,fe,3.sg.fut.aff,feŋ a tiʔ ,Σŋatiʔ,Σ ŋ a t i ʔ,Σ+ŋ+a+tiʔ,Σ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar055,fe,3.sg.fut.aff,a fe diŋ ,aΣdiŋ,a Σ d i ŋ,a+Σ+diŋ,a + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar056,fe,3.pl.fut.aff,feŋ an tiʔ,Σŋantiʔ,Σ ŋ a n t i ʔ,Σ+ŋ+a+n+tiʔ,Σ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar057,fe,3.pl.fut.aff,an fe diŋ,anΣdiŋ,a n Σ d i ŋ,a+n+Σ+diŋ,a + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar058,mu,3.sg.1.sg.fut.aff,mi m̥uuŋ a tiʔ,miΣŋatiʔ,m i Σ ŋ a t i ʔ,mi+Σ+ŋ+a+tiʔ,m i + Σ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar059,mu,3.sg.1.sg.fut.aff,a mi m̥u diŋ,amiΣdiŋ,a m i Σ d i ŋ,a+mi+Σ+diŋ,a + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar060,mu,3.sg.1.pl.excl.fut.aff,mi m̥uuŋ a tiʔ,miΣŋatiʔ,m i Σ ŋ a t i ʔ,mi+Σ+ŋ+a+tiʔ,m i + Σ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar061,mu,3.sg.1.pl.incl.fut.aff,mi m̥uuŋ a tiʔ,miΣŋatiʔ,m i Σ ŋ a t i ʔ,mi+Σ+ŋ+a+tiʔ,m i + Σ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar062,mu,3.sg.1.pl.excl.fut.aff,a mi m̥u diŋ,amiΣdiŋ,a m i Σ d i ŋ,a+mi+Σ+diŋ,a + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar063,mu,3.sg.1.pl.incl.fut.aff,a mi m̥u diŋ,amiΣdiŋ,a m i Σ d i ŋ,a+mi+Σ+diŋ,a + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar064,mu,3.pl.1.sg.fut.aff,mi m̥uuŋ an tiʔ,miΣŋantiʔ,m i Σ ŋ a n t i ʔ,mi+Σ+ŋ+a+n+tiʔ,m i + Σ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar065,mu,3.pl.1.sg.fut.aff,an mi m̥u diŋ,anmiΣdiŋ,a n m i Σ d i ŋ,a+n+mi+Σ+diŋ,a + n + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar066,mu,3.pl.1.pl.excl.fut.aff,mi m̥uuŋ an tiʔ,miΣŋantiʔ,m i Σ ŋ a n t i ʔ,mi+Σ+ŋ+a+n+tiʔ,m i + Σ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar067,mu,3.pl.1.pl.incl.fut.aff,mi m̥uuŋ an tiʔ,miΣŋantiʔ,m i Σ ŋ a n t i ʔ,mi+Σ+ŋ+a+n+tiʔ,m i + Σ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar068,mu,3.pl.1.pl.excl.fut.aff,an mi m̥u diŋ,anmiΣdiŋ,a n m i Σ d i ŋ,a+n+mi+Σ+diŋ,a + n + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar069,mu,3.pl.1.pl.incl.fut.aff,an mi m̥u diŋ,anmiΣdiŋ,a n m i Σ d i ŋ,a+n+mi+Σ+diŋ,a + n + m i + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar070,mu,3.sg.2.sg.fut.aff,m̥uuŋ a ti ce,Σŋatice,Σ ŋ a t i ts e,Σ+ŋ+a+ti+ce,Σ + ŋ + a + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar071,mu,3.sg.2.sg.fut.aff,a m̥u diŋ ce,aΣdiŋce,a Σ d i ŋ ts e,a+Σ+diŋ+ce,a + Σ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar072,mu,3.sg.2.pl.fut.aff,m̥uuŋ a ti ceu,Σŋaticeu,Σ ŋ a t i ts e u,Σ+ŋ+a+ti+ce+u,Σ + ŋ + a + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar073,mu,3.sg.2.pl.fut.aff,a m̥u diŋ ceu,aΣdiŋceu,a Σ d i ŋ ts e u,a+Σ+diŋ+ce+u,a + Σ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar074,mu,3.pl.2.sg.fut.aff,m̥uuŋ an ti ce,Σŋantice,Σ ŋ a n t i ts e,Σ+ŋ+a+n+ti+ce,Σ + ŋ + a + n + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar075,mu,3.pl.2.sg.fut.aff,an m̥u diŋ ce,anΣdiŋce,a n Σ d i ŋ ts e,a+n+Σ+diŋ+ce,a + n + Σ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar076,mu,3.pl.2.pl.fut.aff,m̥uuŋ an ti ceu,Σŋanticeu,Σ ŋ a n t i ts e u,Σ+ŋ+a+n+ti+ce+u,Σ + ŋ + a + n + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar077,mu,3.pl.2.pl.fut.aff,an m̥u diŋ ceu,anΣdiŋceu,a n Σ d i ŋ ts e u,a+n+Σ+diŋ+ce+u,a + n + Σ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar078,mu,3.sg.3.sg.fut.aff,m̥uuŋ a tiʔ,Σŋatiʔ,Σ ŋ a t i ʔ,Σ+ŋ+a+tiʔ,Σ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar079,mu,3.sg.3.sg.fut.aff,a m̥u diŋ,aΣdiŋ,a Σ d i ŋ,a+Σ+diŋ,a + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar080,mu,3.sg.3.pl.fut.aff,m̥uuŋ a tiʔ,Σŋatiʔ,Σ ŋ a t i ʔ,Σ+ŋ+a+tiʔ,Σ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar081,mu,3.sg.3.pl.fut.aff,a m̥u diŋ,aΣdiŋ,a Σ d i ŋ,a+Σ+diŋ,a + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar082,mu,3.pl.3.sg.fut.aff,m̥uuŋ an tiʔ,Σŋantiʔ,Σ ŋ a n t i ʔ,Σ+ŋ+a+n+tiʔ,Σ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar083,mu,3.pl.3.sg.fut.aff,an m̥u diŋ,anΣdiŋ,a n Σ d i ŋ,a+n+Σ+diŋ,a + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar084,mu,3.pl.3.pl.fut.aff,m̥uuŋ an tiʔ,Σŋantiʔ,Σ ŋ a n t i ʔ,Σ+ŋ+a+n+tiʔ,Σ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar085,mu,3.pl.3.pl.fut.aff,an m̥u diŋ,anΣdiŋ,a n Σ d i ŋ,a+n+Σ+diŋ,a + n + Σ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar086,fe,1.sg.fut.neg,fe nɔŋ ka tiʔ,Σnɔŋkatiʔ,Σ n ɔ ŋ k a t i ʔ,Σ+nɔ+ŋ+ka+tiʔ,Σ + n ɔ + ŋ + k a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar087,fe,1.sg.fut.neg,ka fe nɔ diŋ,kaΣnɔdiŋ,k a Σ n ɔ d i ŋ,ka+Σ+nɔ+diŋ,k a + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar088,fe,1.sg.fut.neg,fe nɔ ni-ŋ ,Σnɔniŋ,Σ n ɔ n i ŋ,Σ+nɔ+ni+ŋ,Σ + n ɔ + n i + ŋ,emph,Infimate2025Hmar,nopage,hmar
+hmar089,fe,1.pl.incl.fut.neg,fe nɔŋ ei tiʔ ,Σnɔŋeitiʔ,Σ n ɔ ŋ ei t i ʔ,Σ+nɔ+ŋ+ei+tiʔ,Σ + n ɔ + ŋ + ei + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar090,fe,1.pl.excl.fut.neg,fe nɔŋ kan tiʔ,Σnɔŋkantiʔ,Σ n ɔ ŋ k a n t i ʔ,Σ+nɔ+ŋ+ka+n+tiʔ,Σ + n ɔ + ŋ + k a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar091,fe,1.pl.incl.fut.neg,ei fe nɔ diŋ,eiΣnɔdiŋ,ei Σ n ɔ d i ŋ,ei+Σ+nɔ+diŋ,ei + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar092,fe,1.pl.excl.fut.neg,kan fe nɔ diŋ,kanΣnɔdiŋ,k a n Σ n ɔ d i ŋ,ka+n+Σ+nɔ+diŋ,k a + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar093,fe,1.pl.incl.fut.neg,fe nɔ mei-niʔ ,Σnɔmeiniʔ,Σ n ɔ m ei n i ʔ,Σ+nɔ+mei+niʔ,Σ + n ɔ + m ei + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar094,mu,1.sg.2.sg.fut.neg,ka m̥u nɔ diŋ ce,kaΣnɔdiŋce,k a Σ n ɔ d i ŋ ts e,ka+Σ+nɔ+diŋ+ce,k a + Σ + n ɔ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar095,mu,1.sg.2.sg.fut.neg,m̥u nɔ-ŋ ka ti ce,Σnɔŋkatice,Σ n ɔ ŋ k a t i ts e,Σ+nɔ+ŋ+ka+ti+ce,Σ + n ɔ + ŋ + k a + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar096,mu,1.sg.3.pl.fut.neg,m̥u nɔ niŋ aʔ,Σnɔniŋaʔ,Σ n ɔ n i ŋ a ʔ,Σ+nɔ+niŋ+aʔ,Σ + n ɔ + n i ŋ + a ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar097,mu,1.sg.2.pl.fut.neg,ka m̥u nɔ diŋ ceu,kaΣnɔdiŋceu,k a Σ n ɔ d i ŋ ts e u,ka+Σ+nɔ+diŋ+ce+u,k a + Σ + n ɔ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar098,mu,1.sg.2.pl.fut.neg,m̥u nɔ-ŋ ka ti ceu,Σnɔŋkaticeu,Σ n ɔ ŋ k a t i ts e u,Σ+nɔ+ŋ+ka+ti+ce+u,Σ + n ɔ + ŋ + k a + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar099,mu,1.sg.3.pl.fut.neg,m̥u nɔ-ŋ ka tiʔ,Σnɔŋkatiʔ,Σ n ɔ ŋ k a t i ʔ,Σ+nɔ+ŋ+ka+tiʔ,Σ + n ɔ + ŋ + k a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar100,mu,1.sg.3.pl.fut.neg,ka m̥u nɔ diŋ,kaΣnɔdiŋ,k a Σ n ɔ d i ŋ,ka+Σ+nɔ+diŋ,k a + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar101,mu,1.pl.excl.2.sg.fut.neg,kan m̥u nɔ diŋ ce,kanΣnɔdiŋce,k a n Σ n ɔ d i ŋ ts e,ka+n+Σ+nɔ+diŋ+ce,k a + n + Σ + n ɔ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar102,mu,1.pl.excl.2.sg.fut.neg,m̥u nɔ-ŋ kan ti ce,Σnɔŋkantice,Σ n ɔ ŋ k a n t i ts e,Σ+nɔ+ŋ+ka+n+ti+ce,Σ + n ɔ + ŋ + k a + n + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar103,mu,1.pl.excl.2.pl.fut.neg,kan m̥u nɔ diŋ ceu,kanΣnɔdiŋceu,k a n Σ n ɔ d i ŋ ts e u,ka+n+Σ+nɔ+diŋ+ce+u,k a + n + Σ + n ɔ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar104,mu,1.pl.excl.2.pl.fut.neg,m̥u nɔ-ŋ kan ti ceu,Σnɔŋkanticeu,Σ n ɔ ŋ k a n t i ts e u,Σ+nɔ+ŋ+ka+n+ti+ce+u,Σ + n ɔ + ŋ + k a + n + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar105,mu,1.sg.3.sg.fut.neg,m̥u nɔ niŋ aʔ,Σnɔniŋaʔ,Σ n ɔ n i ŋ a ʔ,Σ+nɔ+niŋ+aʔ,Σ + n ɔ + n i ŋ + a ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar106,mu,1.sg.3.sg.fut.neg,m̥u nɔ-ŋ ka tiʔ,Σnɔŋkatiʔ,Σ n ɔ ŋ k a t i ʔ,Σ+nɔ+ŋ+ka+tiʔ,Σ + n ɔ + ŋ + k a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar107,mu,1.sg.3.sg.fut.neg,ka m̥u nɔ diŋ,kaΣnɔdiŋ,k a Σ n ɔ d i ŋ,ka+Σ+nɔ+diŋ,k a + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar108,mu,1.pl.incl.3.sg.fut.neg,m̥u nɔ-ŋ ei tiʔ,Σnɔŋeitiʔ,Σ n ɔ ŋ ei t i ʔ,Σ+nɔ+ŋ+ei+tiʔ,Σ + n ɔ + ŋ + ei + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar109,mu,1.pl.excl.3.sg.fut.neg,m̥u nɔ-ŋ kan tiʔ,Σnɔŋkantiʔ,Σ n ɔ ŋ k a n t i ʔ,Σ+nɔ+ŋ+ka+n+tiʔ,Σ + n ɔ + ŋ + k a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar110,mu,1.pl.incl.3.sg.fut.neg,ei m̥u nɔ diŋ,eiΣnɔdiŋ,ei Σ n ɔ d i ŋ,ei+Σ+nɔ+diŋ,ei + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar111,mu,1.pl.excl.3.sg.fut.neg,kan m̥u nɔ diŋ,kanΣnɔdiŋ,k a n Σ n ɔ d i ŋ,ka+n+Σ+nɔ+diŋ,k a + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar112,mu,1.pl.incl.3.pl.fut.neg,m̥u nɔ-ŋ ei tiʔ,Σnɔŋeitiʔ,Σ n ɔ ŋ ei t i ʔ,Σ+nɔ+ŋ+ei+tiʔ,Σ + n ɔ + ŋ + ei + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar113,mu,1.pl.excl.3.pl.fut.neg,m̥u nɔ-ŋ kan tiʔ,Σnɔŋkantiʔ,Σ n ɔ ŋ k a n t i ʔ,Σ+nɔ+ŋ+ka+n+tiʔ,Σ + n ɔ + ŋ + k a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar114,mu,1.pl.incl.3.pl.fut.neg,ei m̥u nɔ diŋ,eiΣnɔdiŋ,ei Σ n ɔ d i ŋ,ei+Σ+nɔ+diŋ,ei + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar115,mu,1.pl.excl.3.pl.fut.neg,kan m̥u nɔ diŋ,kanΣnɔdiŋ,k a n Σ n ɔ d i ŋ,ka+n+Σ+nɔ+diŋ,k a + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar116,fe,2.sg.fut.neg,fe nɔŋ i tiʔ ,Σnɔŋitiʔ,Σ n ɔ ŋ i t i ʔ,Σ+nɔ+ŋ+i+tiʔ,Σ + n ɔ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar117,fe,2.sg.fut.neg,i fe nɔ diŋ,iΣnɔdiŋ,i Σ n ɔ d i ŋ,i+Σ+nɔ+diŋ,i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar118,fe,2.sg.fut.neg,fe nɔ ti niʔ ,Σnɔtiniʔ,Σ n ɔ t i n i ʔ,Σ+nɔ+ti+niʔ,Σ + n ɔ + t i + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar119,fe,2.pl.fut.neg,fe nɔŋ in tiʔ ,Σnɔŋintiʔ,Σ n ɔ ŋ i n t i ʔ,Σ+nɔ+ŋ+i+n+tiʔ,Σ + n ɔ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar120,fe,2.pl.fut.neg,in fe nɔ diŋ,inΣnɔdiŋ,i n Σ n ɔ d i ŋ,i+n+Σ+nɔ+diŋ,i + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar121,fe,2.pl.fut.neg,fe nɔ ti ni-u,Σnɔtiniu,Σ n ɔ t i n i u,Σ+nɔ+ti+ni+u,Σ + n ɔ + t i + n i + u,emph,Infimate2025Hmar,nopage,hmar
+hmar122,mu,2.sg.1.sg.fut.neg,i mi m̥u nɔ diŋ,imiΣnɔdiŋ,i m i Σ n ɔ d i ŋ,i+mi+Σ+nɔ+diŋ,i + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar123,mu,2.sg.1.sg.fut.neg,mi m̥u nɔ ti niʔ,miΣnɔtiniʔ,m i Σ n ɔ t i n i ʔ,mi+Σ+nɔ+ti+niʔ,m i + Σ + n ɔ + t i + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar124,mu,2.sg.1.pl.excl.fut.neg,i mi m̥u nɔ diŋ,imiΣnɔdiŋ,i m i Σ n ɔ d i ŋ,i+mi+Σ+nɔ+diŋ,i + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar125,mu,2.sg.1.pl.excl.fut.neg,mi m̥u nɔ ti niʔ,miΣnɔtiniʔ,m i Σ n ɔ t i n i ʔ,mi+Σ+nɔ+ti+niʔ,m i + Σ + n ɔ + t i + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar126,mu,2.pl.1.sg.fut.neg,mi m̥u nɔ-ŋ in tiʔ,miΣnɔŋitiʔ,m i Σ n ɔ ŋ i t i ʔ,mi+Σ+nɔ+ŋ+i+tiʔ,m i + Σ + n ɔ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar127,mu,2.pl.1.sg.fut.neg,in mi m̥u nɔ diŋ,inmiΣnɔdiŋ,i n m i Σ n ɔ d i ŋ,i+n+mi+Σ+nɔ+diŋ,i + n + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar128,mu,2.pl.1.sg.fut.neg,mi m̥u nɔ ti niu,miΣnɔtiniu,m i Σ n ɔ t i n i u,mi+Σ+nɔ+ti+ni+u,m i + Σ + n ɔ + t i + n i + u,emph,Infimate2025Hmar,nopage,hmar
+hmar129,mu,2.pl.1.pl.excl.fut.neg,mi m̥u nɔ-ŋ in tiʔ,miΣnɔŋintiʔ,m i Σ n ɔ ŋ i n t i ʔ,mi+Σ+nɔ+ŋ+i+n+tiʔ,m i + Σ + n ɔ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar130,mu,2.pl.1.pl.excl.fut.neg,in mi m̥u nɔ diŋ,inmiΣnɔdiŋ,i n m i Σ n ɔ d i ŋ,i+n+mi+Σ+nɔ+diŋ,i + n + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar131,mu,2.pl.1.pl.excl.fut.neg,mi m̥u nɔ ti niu,miΣnɔtiniu,m i Σ n ɔ t i n i u,mi+Σ+nɔ+ti+ni+u,m i + Σ + n ɔ + t i + n i + u,emph,Infimate2025Hmar,nopage,hmar
+hmar132,mu,2.sg.3.sg.fut.neg,m̥u nɔ-ŋ i tiʔ,Σnɔŋitiʔ,Σ n ɔ ŋ i t i ʔ,Σ+nɔ+ŋ+i+tiʔ,Σ + n ɔ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar133,mu,2.sg.3.sg.fut.neg,i m̥u nɔ diŋ,iΣnɔdiŋ,i Σ n ɔ d i ŋ,i+Σ+nɔ+diŋ,i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar134,mu,2.sg.3.sg.fut.neg,m̥u nɔ ti niʔ,Σnɔtiniʔ,Σ n ɔ t i n i ʔ,Σ+nɔ+ti+niʔ,Σ + n ɔ + t i + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar135,mu,2.sg.3.pl.fut.neg,m̥u nɔ-ŋ i tiʔ,Σnɔŋitiʔ,Σ n ɔ ŋ i t i ʔ,Σ+nɔ+ŋ+i+tiʔ,Σ + n ɔ + ŋ + i + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar136,mu,2.sg.3.pl.fut.neg,i m̥u nɔ diŋ,iΣnɔdiŋ,i Σ n ɔ d i ŋ,i+Σ+nɔ+diŋ,i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar137,mu,2.sg.3.pl.fut.neg,m̥u nɔ ti niʔ,Σnɔtiniʔ,Σ n ɔ t i n i ʔ,Σ+nɔ+ti+niʔ,Σ + n ɔ + t i + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar138,mu,2.pl.3.sg.fut.neg,m̥u nɔ-ŋ in tiʔ,Σnɔŋintiʔ,Σ n ɔ ŋ i n t i ʔ,Σ+nɔ+ŋ+i+n+tiʔ,Σ + n ɔ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar139,mu,2.pl.3.sg.fut.neg,in m̥u nɔ diŋ,inΣnɔdiŋ,i n Σ n ɔ d i ŋ,i+n+Σ+nɔ+diŋ,i + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar140,mu,2.pl.3.pl.fut.neg,m̥u nɔ-ŋ in tiʔ,Σnɔŋintiʔ,Σ n ɔ ŋ i n t i ʔ,Σ+nɔ+ŋ+i+n+tiʔ,Σ + n ɔ + ŋ + i + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar141,mu,2.pl.3.pl.fut.neg,in m̥u nɔ diŋ,inΣnɔdiŋ,i n Σ n ɔ d i ŋ,i+n+Σ+nɔ+diŋ,i + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar142,fe,3.sg.fut.neg,fe nɔŋ a tiʔ ,Σnɔŋatiʔ,Σ n ɔ ŋ a t i ʔ,Σ+nɔ+ŋ+a+tiʔ,Σ + n ɔ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar143,fe,3.sg.fut.neg,a fe nɔ diŋ ,aΣnɔdiŋ,a Σ n ɔ d i ŋ,a+Σ+nɔ+diŋ,a + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar144,fe,3.sg.fut.neg,fe nɔ niʔ ,Σnɔniʔ,Σ n ɔ n i ʔ,Σ+nɔ+niʔ,Σ + n ɔ + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar145,fe,3.pl.fut.neg,fe nɔŋ an tiʔ ,Σnɔŋantiʔ,Σ n ɔ ŋ a n t i ʔ,Σ+nɔ+ŋ+a+n+tiʔ,Σ + n ɔ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar146,fe,3.pl.fut.neg,fe nɔ ni-hai ,Σnɔnihai,Σ n ɔ n i h a i,Σ+nɔ+ni+hai,Σ + n ɔ + n i + h a i,emph,Infimate2025Hmar,nopage,hmar
+hmar147,fe,3.pl.fut.neg,an fe nɔ diŋ ,anΣnɔdiŋ,a n Σ n ɔ d i ŋ,a+n+Σ+nɔ+diŋ,a + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar148,mu,3.sg.1.sg.fut.neg,mi m̥u nɔ-ŋ a tiʔ,miΣnɔŋatiʔ,m i Σ n ɔ ŋ a t i ʔ,mi+Σ+nɔ+ŋ+a+tiʔ,m i + Σ + n ɔ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar149,mu,3.sg.1.sg.fut.neg,a mi m̥u nɔ diŋ,amiΣnɔdiŋ,a m i Σ n ɔ d i ŋ,a+mi+Σ+nɔ+diŋ,a + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar150,mu,3.sg.1.sg.fut.neg,mi m̥u nɔ niʔ,miΣnɔni,m i Σ n ɔ n i,mi+Σ+nɔ+ni,m i + Σ + n ɔ + n i,emph,Infimate2025Hmar,nopage,hmar
+hmar151,mu,3.sg.1.pl.excl.fut.neg,mi m̥u nɔ-ŋ a tiʔ,miΣnɔŋatiʔ,m i Σ n ɔ ŋ a t i ʔ,mi+Σ+nɔ+ŋ+a+tiʔ,m i + Σ + n ɔ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar152,mu,3.sg.1.pl.incl.fut.neg,mi m̥u nɔ-ŋ a tiʔ,miΣnɔŋatiʔ,m i Σ n ɔ ŋ a t i ʔ,mi+Σ+nɔ+ŋ+a+tiʔ,m i + Σ + n ɔ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar153,mu,3.sg.1.pl.excl.fut.neg,a mi m̥u nɔ diŋ,amiΣnɔdiŋ,a m i Σ n ɔ d i ŋ,a+mi+Σ+nɔ+diŋ,a + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar154,mu,3.sg.1.pl.incl.fut.neg,a mi m̥u nɔ diŋ,amiΣnɔdiŋ,a m i Σ n ɔ d i ŋ,a+mi+Σ+nɔ+diŋ,a + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar155,mu,3.sg.1.pl.excl.fut.neg,mi m̥u nɔ niʔ,miΣnɔniʔ,m i Σ n ɔ n i ʔ,mi+Σ+nɔ+niʔ,m i + Σ + n ɔ + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar156,mu,3.sg.1.pl.incl.fut.neg,mi m̥u nɔ niʔ,miΣnɔniʔ,m i Σ n ɔ n i ʔ,mi+Σ+nɔ+niʔ,m i + Σ + n ɔ + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar157,mu,3.pl.1.sg.fut.neg,mi m̥u nɔ-ŋ an tiʔ,miΣnɔŋantiʔ,m i Σ n ɔ ŋ a n t i ʔ,mi+Σ+nɔ+ŋ+a+n+tiʔ,m i + Σ + n ɔ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar158,mu,3.pl.1.sg.fut.neg,mi m̥u nɔ ni hai,miΣnɔnihai,m i Σ n ɔ n i h a i,mi+Σ+nɔ+ni+hai,m i + Σ + n ɔ + n i + h a i,emph,Infimate2025Hmar,nopage,hmar
+hmar159,mu,3.pl.1.sg.fut.neg,an mi m̥u nɔʔ diŋ,anmiΣnɔdiŋ,a n m i Σ n ɔ d i ŋ,a+n+mi+Σ+nɔ+diŋ,a + n + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar160,mu,3.pl.1.pl.excl.fut.neg,mi m̥u nɔ-ŋ an tiʔ,miΣnɔŋantiʔ,m i Σ n ɔ ŋ a n t i ʔ,mi+Σ+nɔ+ŋ+a+n+tiʔ,m i + Σ + n ɔ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar161,mu,3.pl.1.pl.incl.fut.neg,mi m̥u nɔ-ŋ an tiʔ,miΣnɔŋantiʔ,m i Σ n ɔ ŋ a n t i ʔ,mi+Σ+nɔ+ŋ+a+n+tiʔ,m i + Σ + n ɔ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar162,mu,3.pl.1.pl.excl.fut.neg,mi m̥u nɔ ni hai,miΣnɔnihai,m i Σ n ɔ n i h a i,mi+Σ+nɔ+ni+hai,m i + Σ + n ɔ + n i + h a i,emph,Infimate2025Hmar,nopage,hmar
+hmar163,mu,3.pl.1.pl.incl.fut.neg,mi m̥u nɔ ni hai,miΣnɔnihai,m i Σ n ɔ n i h a i,mi+Σ+nɔ+ni+hai,m i + Σ + n ɔ + n i + h a i,emph,Infimate2025Hmar,nopage,hmar
+hmar164,mu,3.pl.1.pl.excl.fut.neg,an mi m̥u nɔʔ diŋ,anmiΣnɔdiŋ,a n m i Σ n ɔ d i ŋ,a+n+mi+Σ+nɔ+diŋ,a + n + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar165,mu,3.pl.1.pl.incl.fut.neg,an mi m̥u nɔʔ diŋ,anmiΣnɔdiŋ,a n m i Σ n ɔ d i ŋ,a+n+mi+Σ+nɔ+diŋ,a + n + m i + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar166,mu,3.sg.2.sg.fut.neg,m̥u nɔ-ŋ a ti ce,Σnɔŋatice,Σ n ɔ ŋ a t i ts e,Σ+nɔ+ŋ+a+ti+ce,Σ + n ɔ + ŋ + a + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar167,mu,3.sg.2.sg.fut.neg,a m̥u nɔ diŋ ce,aΣnɔdiŋce,a Σ n ɔ d i ŋ ts e,a+Σ+nɔ+diŋ+ce,a + Σ + n ɔ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar168,mu,3.sg.2.sg.fut.neg,m̥u nɔ ni ce,Σnɔnice,Σ n ɔ n i ts e,Σ+nɔ+ni+ce,Σ + n ɔ + n i + ts e,emph,Infimate2025Hmar,nopage,hmar
+hmar169,mu,3.sg.2.pl.fut.neg,m̥u nɔ-ŋ a ti ceu,Σnɔŋaticeu,Σ n ɔ ŋ a t i ts e u,Σ+nɔ+ŋ+a+ti+ce+u,Σ + n ɔ + ŋ + a + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar170,mu,3.sg.2.pl.fut.neg,a m̥u nɔ diŋ ceu,aΣnɔdiŋceu,a Σ n ɔ d i ŋ ts e u,a+Σ+nɔ+diŋ+ce+u,a + Σ + n ɔ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar171,mu,3.sg.2.pl.fut.neg,m̥u nɔ ni ceu,Σnɔniceu,Σ n ɔ n i ts e u,Σ+nɔ+ni+ce+u,Σ + n ɔ + n i + ts e + u,emph,Infimate2025Hmar,nopage,hmar
+hmar172,mu,3.pl.2.sg.fut.neg,m̥u nɔ-ŋ an ti ce,Σnɔŋantice,Σ n ɔ ŋ a n t i ts e,Σ+nɔ+ŋ+a+n+ti+ce,Σ + n ɔ + ŋ + a + n + t i + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar173,mu,3.pl.2.sg.fut.neg,an m̥u nɔ diŋ ce,anΣnɔdiŋce,a n Σ n ɔ d i ŋ ts e,a+n+Σ+nɔ+diŋ+ce,a + n + Σ + n ɔ + d i ŋ + ts e,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar174,mu,3.pl.2.sg.fut.neg,m̥u nɔ ni hai ce,Σnɔnihaice,Σ n ɔ n i h a i ts e,Σ+nɔ+ni+hai+ce,Σ + n ɔ + n i + h a i + ts e,emph,Infimate2025Hmar,nopage,hmar
+hmar175,mu,3.pl.2.pl.fut.neg,m̥u nɔ-ŋ an ti ceu,Σnɔŋanticeu,Σ n ɔ ŋ a n t i ts e u,Σ+nɔ+ŋ+a+n+ti+ce+u,Σ + n ɔ + ŋ + a + n + t i + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar176,mu,3.pl.2.pl.fut.neg,an m̥u nɔ diŋ ceu,anΣnɔdiŋceu,a n Σ n ɔ d i ŋ ts e u,a+n+Σ+nɔ+diŋ+ce+u,a + n + Σ + n ɔ + d i ŋ + ts e + u,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar177,mu,3.pl.2.pl.fut.neg,m̥u nɔ ni hai ceu,Σnɔnihaiceu,Σ n ɔ n i h a i ts e u,Σ+nɔ+ni+hai+ce+u,Σ + n ɔ + n i + h a i + ts e + u,emph,Infimate2025Hmar,nopage,hmar
+hmar178,mu,3.sg.3.sg.fut.neg,m̥u nɔ-ŋ a tiʔ,Σnɔŋatiʔ,Σ n ɔ ŋ a t i ʔ,Σ+nɔ+ŋ+a+tiʔ,Σ + n ɔ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar179,mu,3.sg.3.sg.fut.neg,a m̥u nɔ diŋ,aΣnɔdiŋ,a Σ n ɔ d i ŋ,a+Σ+nɔ+diŋ,a + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar180,mu,3.sg.3.sg.fut.neg,m̥u nɔ niʔ,Σnɔniʔ,Σ n ɔ n i ʔ,Σ+nɔ+niʔ,Σ + n ɔ + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar181,mu,3.sg.3.pl.fut.neg,m̥u nɔ-ŋ a tiʔ,Σnɔŋatiʔ,Σ n ɔ ŋ a t i ʔ,Σ+nɔ+ŋ+a+tiʔ,Σ + n ɔ + ŋ + a + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar182,mu,3.sg.3.pl.fut.neg,a m̥u nɔ diŋ,aΣnɔdiŋ,a Σ n ɔ d i ŋ,a+Σ+nɔ+diŋ,a + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar183,mu,3.sg.3.pl.fut.neg,m̥u nɔ niʔ,Σnɔniʔ,Σ n ɔ n i ʔ,Σ+nɔ+niʔ,Σ + n ɔ + n i ʔ,emph,Infimate2025Hmar,nopage,hmar
+hmar184,mu,3.pl.3.sg.fut.neg,m̥u nɔ-ŋ an tiʔ,Σnɔŋantiʔ,Σ n ɔ ŋ a n t i ʔ,Σ+nɔ+ŋ+a+n+tiʔ,Σ + n ɔ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar185,mu,3.pl.3.sg.fut.neg,m̥u nɔ ni hai,Σnɔnihai,Σ n ɔ n i h a i,Σ+nɔ+ni+hai,Σ + n ɔ + n i + h a i,emph,Infimate2025Hmar,nopage,hmar
+hmar186,mu,3.pl.3.sg.fut.neg,an m̥u nɔ diŋ,anΣnɔdiŋ,a n Σ n ɔ d i ŋ,a+n+Σ+nɔ+diŋ,a + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar187,mu,3.pl.3.pl.fut.neg,m̥u nɔ-ŋ an tiʔ,Σnɔŋantiʔ,Σ n ɔ ŋ a n t i ʔ,Σ+nɔ+ŋ+a+n+tiʔ,Σ + n ɔ + ŋ + a + n + t i ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar188,mu,3.pl.3.pl.fut.neg,m̥u nɔ ni hai,Σnɔnihai,Σ n ɔ n i h a i,Σ+nɔ+ni+hai,Σ + n ɔ + n i + h a i,emph,Infimate2025Hmar,nopage,hmar
+hmar189,mu,3.pl.3.pl.fut.neg,an m̥u nɔ diŋ,anΣnɔdiŋ,a n Σ n ɔ d i ŋ,a+n+Σ+nɔ+diŋ,a + n + Σ + n ɔ + d i ŋ,pragm_marked,Infimate2025Hmar,nopage,hmar
+hmar190,fe,1.sg.nfut.aff,ka fe,kaΣ,k a Σ,ka+Σ,k a + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar191,fe,1.pl.incl.nfut.aff,ei fe ,eiΣ,ei Σ,ei+Σ,ei + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar192,fe,1.pl.excl.nfut.aff,kan fe ,kanΣ,k a n Σ,ka+n+Σ,k a + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar193,mu,1.sg.2.sg.nfut.aff,ka m̥u ce,kaΣce,k a Σ ts e,ka+Σ+ce,k a + Σ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar194,mu,1.sg.2.pl.nfut.aff,ka m̥u ceu,kaΣceu,k a Σ ts e u,ka+Σ+ce+u,k a + Σ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar195,mu,1.pl.excl.2.sg.nfut.aff,kan m̥u ce,kanΣce,k a n Σ ts e,ka+n+Σ+ce,k a + n + Σ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar196,mu,1.pl.excl.2.pl.nfut.aff,kan m̥u ceu,kanΣceu,k a n Σ ts e u,ka+n+Σ+ce+u,k a + n + Σ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar197,mu,1.sg.3.sg.nfut.aff,ka Ø m̥u,kaΣ,k a Σ,ka+Σ,k a + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar198,mu,1.sg.3.pl.nfut.aff,ka Ø m̥u,kaΣ,k a Σ,ka+Σ,k a + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar199,mu,1.pl.incl.3.sg.nfut.aff,ei Ø m̥u,eiΣ,ei Σ,ei+Σ,ei + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar200,mu,1.pl.excl.3.sg.nfut.aff,kan Ø m̥u,kanΣ,k a n Σ,ka+n+Σ,k a + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar201,mu,1.pl.incl.3.pl.nfut.aff,ei Ø m̥u,eiΣ,ei Σ,ei+Σ,ei + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar202,mu,1.pl.excl.3.pl.nfut.aff,kan Ø m̥u,kanΣ,k a n Σ,ka+n+Σ,k a + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar203,fe,2.sg.nfut.aff,i fe,iΣ,i Σ,i+Σ,i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar204,fe,2.pl.nfut.aff,in fe,inΣ,i n Σ,i+n+Σ,i + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar205,mu,2.sg.1.sg.nfut.aff,i mi m̥u,imiΣ,i m i Σ,i+mi+Σ,i + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar206,mu,2.sg.1.pl.excl.nfut.aff,i mi m̥u,imiΣ,i m i Σ,i+mi+Σ,i + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar207,mu,2.pl.1.sg.nfut.aff,in mi m̥u,inmiΣ,i n m i Σ,i+n+mi+Σ,i + n + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar208,mu,2.pl.1.pl.excl.nfut.aff,in mi m̥u,inmiΣ,i n m i Σ,i+n+mi+Σ,i + n + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar209,mu,2.sg.3.sg.nfut.aff,i Ø m̥u,iΣ,i Σ,i+Σ,i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar210,mu,2.sg.3.pl.nfut.aff,i Ø m̥u,iΣ,i Σ,i+Σ,i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar211,mu,2.pl.3.sg.nfut.aff,in Ø m̥u,inΣ,i n Σ,i+n+Σ,i + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar212,mu,2.pl.3.pl.nfut.aff,in Ø m̥u,inΣ,i n Σ,i+n+Σ,i + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar213,fe,3.sg.nfut.aff,a fe,aΣ,a Σ,a+Σ,a + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar214,fe,3.pl.nfut.aff,an fe,anΣ,a n Σ,a+n+Σ,a + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar215,mu,3.sg.1.sg.nfut.aff,a mi m̥u,amiΣ,a m i Σ,a+mi+Σ,a + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar216,mu,3.sg.1.pl.excl.nfut.aff,a mi m̥u,amiΣ,a m i Σ,a+mi+Σ,a + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar217,mu,3.sg.1.pl.incl.nfut.aff,a mi m̥u,amiΣ,a m i Σ,a+mi+Σ,a + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar218,mu,3.pl.1.sg.nfut.aff,an mi m̥u,anmiΣ,a n m i Σ,a+n+mi+Σ,a + n + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar219,mu,3.pl.1.pl.excl.nfut.aff,an mi m̥u,anmiΣ,a n m i Σ,a+n+mi+Σ,a + n + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar220,mu,3.pl.1.pl.incl.nfut.aff,an mi m̥u,anmiΣ,a n m i Σ,a+n+mi+Σ,a + n + m i + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar221,mu,3.sg.2.sg.nfut.aff,a m̥u ce,aΣce,a Σ ts e,a+Σ+ce,a + Σ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar222,mu,3.sg.2.pl.nfut.aff,a m̥u ceu,aΣceu,a Σ ts e u,a+Σ+ce+u,a + Σ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar223,mu,3.pl.2.sg.nfut.aff,an m̥u ce,anΣce,a n Σ ts e,a+n+Σ+ce,a + n + Σ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar224,mu,3.pl.2.pl.nfut.aff,an m̥u ceu,anΣceu,a n Σ ts e u,a+n+Σ+ce+u,a + n + Σ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar225,mu,3.sg.3.sg.nfut.aff,a Ø m̥u,aΣ,a Σ,a+Σ,a + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar226,mu,3.sg.3.pl.nfut.aff,a Ø m̥u,aΣ,a Σ,a+Σ,a + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar227,mu,3.pl.3.sg.nfut.aff,an Ø m̥u,anΣ,a n Σ,a+n+Σ,a + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar228,mu,3.pl.3.pl.nfut.aff,an Ø m̥u,anΣ,a n Σ,a+n+Σ,a + n + Σ,default,Infimate2025Hmar,nopage,hmar
+hmar229,fe,1.sg.nfut.neg,ka fe nɔʔ,kaΣnɔʔ,k a Σ n ɔ ʔ,ka+Σ+nɔʔ,k a + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar230,fe,1.pl.incl.nfut.neg,ei fe nɔʔ,eiΣnɔʔ,ei Σ n ɔ ʔ,ei+Σ+nɔʔ,ei + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar231,fe,1.pl.excl.nfut.neg,kan fe nɔʔ,kanΣnɔʔ,k a n Σ n ɔ ʔ,ka+n+Σ+nɔʔ,k a + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar232,mu,1.sg.2.sg.nfut.neg,ka m̥u nɔ ce,kaΣnɔce,k a Σ n ɔ ts e,ka+Σ+nɔ+ce,k a + Σ + n ɔ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar233,mu,1.sg.2.pl.nfut.neg,ka m̥u nɔ ceu,kaΣnɔceu,k a Σ n ɔ ts e u,ka+Σ+nɔ+ce+u,k a + Σ + n ɔ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar234,mu,1.pl.excl.2.sg.nfut.neg,kan m̥u nɔ ce,kanΣnɔce,k a n Σ n ɔ ts e,ka+n+Σ+nɔ+ce,k a + n + Σ + n ɔ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar235,mu,1.pl.excl.2.pl.nfut.neg,kan m̥u nɔ ceu,kanΣnɔceu,k a n Σ n ɔ ts e u,ka+n+Σ+nɔ+ce+u,k a + n + Σ + n ɔ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar236,mu,1.sg.3.sg.nfut.neg,ka Ø m̥u nɔʔ,kaΣnɔʔ,k a Σ n ɔ ʔ,ka+Σ+nɔʔ,k a + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar237,mu,1.sg.3.pl.nfut.neg,ka Ø m̥u nɔʔ,kaΣnɔʔ,k a Σ n ɔ ʔ,ka+Σ+nɔʔ,k a + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar238,mu,1.pl.incl.3.sg.nfut.neg,ei Ø m̥u nɔʔ,eiΣnɔʔ,ei Σ n ɔ ʔ,ei+Σ+nɔʔ,ei + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar239,mu,1.pl.excl.3.sg.nfut.neg,kan Ø m̥u nɔʔ,kanΣnɔʔ,k a n Σ n ɔ ʔ,ka+n+Σ+nɔʔ,k a + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar240,mu,1.pl.incl.3.pl.nfut.neg,ei Ø m̥u nɔʔ,eiΣnɔʔ,ei Σ n ɔ ʔ,ei+Σ+nɔʔ,ei + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar241,mu,1.pl.excl.3.pl.nfut.neg,kan Ø m̥u nɔʔ,kanΣnɔʔ,k a n Σ n ɔ ʔ,ka+n+Σ+nɔʔ,k a + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar242,fe,2.sg.nfut.neg,i fe nɔʔ,iΣnɔʔ,i Σ n ɔ ʔ,i+Σ+nɔʔ,i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar243,fe,2.pl.nfut.neg,in fe nɔʔ,inΣnɔʔ,i n Σ n ɔ ʔ,i+n+Σ+nɔʔ,i + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar244,mu,2.sg.1.sg.nfut.neg,i mi m̥u nɔʔ,imiΣnɔʔ,i m i Σ n ɔ ʔ,i+mi+Σ+nɔʔ,i + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar245,mu,2.sg.1.pl.excl.nfut.neg,i mi m̥u nɔʔ,imiΣnɔʔ,i m i Σ n ɔ ʔ,i+mi+Σ+nɔʔ,i + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar246,mu,2.pl.1.sg.nfut.neg,in mi m̥u nɔʔ,inmiΣnɔʔ,i n m i Σ n ɔ ʔ,i+n+mi+Σ+nɔʔ,i + n + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar247,mu,2.pl.1.pl.excl.nfut.neg,in mi m̥u nɔʔ,inmiΣnɔʔ,i n m i Σ n ɔ ʔ,i+n+mi+Σ+nɔʔ,i + n + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar248,mu,2.sg.3.sg.nfut.neg,i Ø m̥u nɔʔ,iΣnɔʔ,i Σ n ɔ ʔ,i+Σ+nɔʔ,i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar249,mu,2.sg.3.pl.nfut.neg,i Ø m̥u nɔʔ,iΣnɔʔ,i Σ n ɔ ʔ,i+Σ+nɔʔ,i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar250,mu,2.pl.3.sg.nfut.neg,in Ø m̥u nɔʔ,inΣnɔʔ,i n Σ n ɔ ʔ,i+n+Σ+nɔʔ,i + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar251,mu,2.pl.3.pl.nfut.neg,in Ø m̥u nɔʔ,inΣnɔʔ,i n Σ n ɔ ʔ,i+n+Σ+nɔʔ,i + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar252,fe,3.sg.nfut.neg,a fe nɔʔ,aΣnɔʔ,a Σ n ɔ ʔ,a+Σ+nɔʔ,a + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar253,fe,3.pl.nfut.neg,an fe nɔʔ,anΣnɔʔ,a n Σ n ɔ ʔ,a+n+Σ+nɔʔ,a + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar254,mu,3.sg.1.sg.nfut.neg,a mi m̥u nɔʔ,amiΣnɔʔ,a m i Σ n ɔ ʔ,a+mi+Σ+nɔʔ,a + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar255,mu,3.sg.1.pl.excl.nfut.neg,a mi m̥u nɔʔ,amiΣnɔʔ,a m i Σ n ɔ ʔ,a+mi+Σ+nɔʔ,a + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar256,mu,3.sg.1.pl.incl.nfut.neg,a mi m̥u nɔʔ,amiΣnɔʔ,a m i Σ n ɔ ʔ,a+mi+Σ+nɔʔ,a + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar257,mu,3.pl.1.sg.nfut.neg,an mi m̥u nɔʔ,anmiΣnɔʔ,a n m i Σ n ɔ ʔ,a+n+mi+Σ+nɔʔ,a + n + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar258,mu,3.pl.1.pl.excl.nfut.neg,an mi m̥u nɔʔ,anmiΣnɔʔ,a n m i Σ n ɔ ʔ,a+n+mi+Σ+nɔʔ,a + n + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar259,mu,3.pl.1.pl.incl.nfut.neg,an mi m̥u nɔʔ,anmiΣnɔʔ,a n m i Σ n ɔ ʔ,a+n+mi+Σ+nɔʔ,a + n + m i + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar260,mu,3.sg.2.sg.nfut.neg,a m̥u nɔ ce,aΣnɔce,a Σ n ɔ ts e,a+Σ+nɔ+ce,a + Σ + n ɔ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar261,mu,3.sg.2.pl.nfut.neg,a m̥u nɔ ceu,aΣnɔceu,a Σ n ɔ ts e u,a+Σ+nɔ+ce+u,a + Σ + n ɔ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar262,mu,3.pl.2.sg.nfut.neg,an m̥u nɔ ce,anΣnɔce,a n Σ n ɔ ts e,a+n+Σ+nɔ+ce,a + n + Σ + n ɔ + ts e,default,Infimate2025Hmar,nopage,hmar
+hmar263,mu,3.pl.2.pl.nfut.neg,an m̥u nɔ ceu,anΣnɔceu,a n Σ n ɔ ts e u,a+n+Σ+nɔ+ce+u,a + n + Σ + n ɔ + ts e + u,default,Infimate2025Hmar,nopage,hmar
+hmar264,mu,3.sg.3.sg.nfut.neg,a Ø m̥u nɔʔ,aΣnɔʔ,a Σ n ɔ ʔ,a+Σ+nɔʔ,a + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar265,mu,3.sg.3.pl.nfut.neg,a Ø m̥u nɔʔ,aΣnɔʔ,a Σ n ɔ ʔ,a+Σ+nɔʔ,a + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar266,mu,3.pl.3.sg.nfut.neg,an Ø m̥u nɔʔ,anΣnɔʔ,a n Σ n ɔ ʔ,a+n+Σ+nɔʔ,a + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar
+hmar267,mu,3.pl.3.pl.nfut.neg,an Ø m̥u nɔʔ,anΣnɔʔ,a n Σ n ɔ ʔ,a+n+Σ+nɔʔ,a + n + Σ + n ɔ ʔ,default,Infimate2025Hmar,nopage,hmar

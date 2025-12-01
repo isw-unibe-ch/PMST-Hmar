@@ -1,0 +1,55 @@
+FUT.AFF,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2PL,3SG,3PL,paradigm_tag
+1SG,,,,Σ + ŋ + k a + t i + ts e,Σ + ŋ + k a + t i + ts e + u,Σ + ŋ + k a + t i ʔ,Σ + ŋ + k a + t i ʔ,default
+1SG,,,,k a + Σ + d i ŋ + ts e,k a + Σ + d i ŋ + ts e + u,k a + Σ + d i ŋ,k a + Σ + d i ŋ,pragm_marked
+1PLEXCL,,,,Σ + ŋ + k a + n + t i + ts e,Σ + ŋ + k a + n + t i + ts e + u,Σ + ŋ + k a + n + t i ʔ,Σ + ŋ + k a + n + t i ʔ,default
+1PLEXCL,,,,k a + n + Σ + d i ŋ + ts e,k a + n + Σ + d i ŋ + ts e + u,k a + n + Σ + d i ŋ,k a + n + Σ + d i ŋ,pragm_marked
+1PLINCL,,,,,,Σ + ŋ + ei + t i ʔ,Σ + ŋ + ei + t i ʔ,default
+1PLINCL,,,,,,ei + Σ + d i ŋ,ei + Σ + d i ŋ,pragm_marked
+2SG,m i + Σ + ŋ + i + t i ʔ,m i + Σ + ŋ + i + t i ʔ,,,,Σ + ŋ + i + t i ʔ,Σ + ŋ + i + t i ʔ,default
+2SG,i + m i + Σ + d i ŋ,i + m i + Σ + d i ŋ,,,,i + Σ + d i ŋ,i + Σ + d i ŋ,pragm_marked
+2PL,m i + Σ + ŋ + i + n + t i ʔ,m i + Σ + ŋ + i + n + t i ʔ,,,,Σ + ŋ + i + n + t i ʔ,Σ + ŋ + i + n + t i ʔ,default
+2PL,i + n + m i + Σ + d i ŋ,i + n + m i + Σ + d i ŋ,,,,i + n + Σ + d i ŋ,i + n + Σ + d i ŋ,pragm_marked
+3SG,m i + Σ + ŋ + a + t i ʔ,m i + Σ + ŋ + a + t i ʔ,m i + Σ + ŋ + a + t i ʔ,Σ + ŋ + a + t i + ts e,Σ + ŋ + a + t i + ts e + u,Σ + ŋ + a + t i ʔ,Σ + ŋ + a + t i ʔ,default
+3SG,a + m i + Σ + d i ŋ,a + m i + Σ + d i ŋ,a + m i + Σ + d i ŋ,a + Σ + d i ŋ + ts e,a + Σ + d i ŋ + ts e + u,a + Σ + d i ŋ,a + Σ + d i ŋ,pragm_marked
+3PL,m i + Σ + ŋ + a + n + t i ʔ,m i + Σ + ŋ + a + n + t i ʔ,m i + Σ + ŋ + a + n + t i ʔ,Σ + ŋ + a + n + t i + ts e,Σ + ŋ + a + n + t i + ts e + u,Σ + ŋ + a + n + t i ʔ,Σ + ŋ + a + n + t i ʔ,default
+3PL,a + n + m i + Σ + d i ŋ,a + n + m i + Σ + d i ŋ,a + n + m i + Σ + d i ŋ,a + n + Σ + d i ŋ + ts e,a + n + Σ + d i ŋ + ts e + u,a + n + Σ + d i ŋ,a + n + Σ + d i ŋ,pragm_marked
+FUT.NEG,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2PL,3SG,3PL,paradigm_tag
+1SG,,,,Σ + n ɔ + ŋ + k a + t i + ts e,Σ + n ɔ + ŋ + k a + t i + ts e + u,Σ + n ɔ + ŋ + k a + t i ʔ,Σ + n ɔ + ŋ + k a + t i ʔ,default
+1SG,,,,k a + Σ + n ɔ + d i ŋ + ts e,k a + Σ + n ɔ + d i ŋ + ts e + u,k a + Σ + n ɔ + d i ŋ,k a + Σ + n ɔ + d i ŋ,pragm_marked
+1SG,,,,,,Σ + n ɔ + n i ŋ + a ʔ,Σ + n ɔ + n i ŋ + a ʔ,emph
+1PLEXCL,,,,Σ + n ɔ + ŋ + k a + n + t i + ts e,Σ + n ɔ + ŋ + k a + n + t i + ts e + u,Σ + n ɔ + ŋ + k a + n + t i ʔ,Σ + n ɔ + ŋ + k a + n + t i ʔ,default
+1PLEXCL,,,,k a + n + Σ + n ɔ + d i ŋ + ts e,k a + n + Σ + n ɔ + d i ŋ + ts e + u,k a + n + Σ + n ɔ + d i ŋ,k a + n + Σ + n ɔ + d i ŋ,pragm_marked
+1PLINCL,,,,,,Σ + n ɔ + ŋ + ei + t i ʔ,Σ + n ɔ + ŋ + ei + t i ʔ,default
+1PLINCL,,,,,,ei + Σ + n ɔ + d i ŋ,ei + Σ + n ɔ + d i ŋ,pragm_marked
+2SG,m i + Σ + n ɔ + t i + n i ʔ,m i + Σ + n ɔ + t i + n i ʔ,,,,Σ + n ɔ + t i + n i ʔ,Σ + n ɔ + t i + n i ʔ,emph
+2SG,i + m i + Σ + n ɔ + d i ŋ,i + m i + Σ + n ɔ + d i ŋ,,,,i + Σ + n ɔ + d i ŋ,i + Σ + n ɔ + d i ŋ,pragm_marked
+2SG,,,,,,Σ + n ɔ + ŋ + i + t i ʔ,Σ + n ɔ + ŋ + i + t i ʔ,default
+2PL,m i + Σ + n ɔ + ŋ + i + t i ʔ,m i + Σ + n ɔ + ŋ + i + n + t i ʔ,,,,Σ + n ɔ + ŋ + i + n + t i ʔ,Σ + n ɔ + ŋ + i + n + t i ʔ,default
+2PL,m i + Σ + n ɔ + t i + n i + u,m i + Σ + n ɔ + t i + n i + u,,,,,,emph
+2PL,i + n + m i + Σ + n ɔ + d i ŋ,i + n + m i + Σ + n ɔ + d i ŋ,,,,i + n + Σ + n ɔ + d i ŋ,i + n + Σ + n ɔ + d i ŋ,pragm_marked
+3SG,m i + Σ + n ɔ + ŋ + a + t i ʔ,m i + Σ + n ɔ + ŋ + a + t i ʔ,m i + Σ + n ɔ + ŋ + a + t i ʔ,Σ + n ɔ + ŋ + a + t i + ts e,Σ + n ɔ + ŋ + a + t i + ts e + u,Σ + n ɔ + ŋ + a + t i ʔ,Σ + n ɔ + ŋ + a + t i ʔ,default
+3SG,m i + Σ + n ɔ + n i,m i + Σ + n ɔ + n i ʔ,m i + Σ + n ɔ + n i ʔ,Σ + n ɔ + n i + ts e,Σ + n ɔ + n i + ts e + u,Σ + n ɔ + n i ʔ,Σ + n ɔ + n i ʔ,emph
+3SG,a + m i + Σ + n ɔ + d i ŋ,a + m i + Σ + n ɔ + d i ŋ,a + m i + Σ + n ɔ + d i ŋ,a + Σ + n ɔ + d i ŋ + ts e,a + Σ + n ɔ + d i ŋ + ts e + u,a + Σ + n ɔ + d i ŋ,a + Σ + n ɔ + d i ŋ,pragm_marked
+3PL,m i + Σ + n ɔ + ŋ + a + n + t i ʔ,m i + Σ + n ɔ + ŋ + a + n + t i ʔ,m i + Σ + n ɔ + ŋ + a + n + t i ʔ,Σ + n ɔ + ŋ + a + n + t i + ts e,Σ + n ɔ + ŋ + a + n + t i + ts e + u,Σ + n ɔ + ŋ + a + n + t i ʔ,Σ + n ɔ + ŋ + a + n + t i ʔ,default
+3PL,m i + Σ + n ɔ + n i + h a i,m i + Σ + n ɔ + n i + h a i,m i + Σ + n ɔ + n i + h a i,Σ + n ɔ + n i + h a i + ts e,Σ + n ɔ + n i + h a i + ts e + u,Σ + n ɔ + n i + h a i,Σ + n ɔ + n i + h a i,emph
+3PL,a + n + m i + Σ + n ɔ + d i ŋ,a + n + m i + Σ + n ɔ + d i ŋ,a + n + m i + Σ + n ɔ + d i ŋ,a + n + Σ + n ɔ + d i ŋ + ts e,a + n + Σ + n ɔ + d i ŋ + ts e + u,a + n + Σ + n ɔ + d i ŋ,a + n + Σ + n ɔ + d i ŋ,pragm_marked
+NFUT.AFF,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2PL,3SG,3PL,paradigm_tag
+1SG,,,,k a + Σ + ts e,k a + Σ + ts e + u,k a + Σ,k a + Σ,default
+1PLEXCL,,,,k a + n + Σ + ts e,k a + n + Σ + ts e + u,k a + n + Σ,k a + n + Σ,default
+1PLINCL,,,,,,ei + Σ,ei + Σ,default
+2SG,i + m i + Σ,i + m i + Σ,,,,i + Σ,i + Σ,default
+2PL,i + n + m i + Σ,i + n + m i + Σ,,,,i + n + Σ,i + n + Σ,default
+3SG,a + m i + Σ,a + m i + Σ,a + m i + Σ,a + Σ + ts e,a + Σ + ts e + u,a + Σ,a + Σ,default
+3PL,a + n + m i + Σ,a + n + m i + Σ,a + n + m i + Σ,a + n + Σ + ts e,a + n + Σ + ts e + u,a + n + Σ,a + n + Σ,default
+NFUT.NEG,,,,,,,,
+A/O,1SG,1PLEXCL,1PLINCL,2SG,2PL,3SG,3PL,paradigm_tag
+1SG,,,,k a + Σ + n ɔ + ts e,k a + Σ + n ɔ + ts e + u,k a + Σ + n ɔ ʔ,k a + Σ + n ɔ ʔ,default
+1PLEXCL,,,,k a + n + Σ + n ɔ + ts e,k a + n + Σ + n ɔ + ts e + u,k a + n + Σ + n ɔ ʔ,k a + n + Σ + n ɔ ʔ,default
+1PLINCL,,,,,,ei + Σ + n ɔ ʔ,ei + Σ + n ɔ ʔ,default
+2SG,i + m i + Σ + n ɔ ʔ,i + m i + Σ + n ɔ ʔ,,,,i + Σ + n ɔ ʔ,i + Σ + n ɔ ʔ,default
+2PL,i + n + m i + Σ + n ɔ ʔ,i + n + m i + Σ + n ɔ ʔ,,,,i + n + Σ + n ɔ ʔ,i + n + Σ + n ɔ ʔ,default
+3SG,a + m i + Σ + n ɔ ʔ,a + m i + Σ + n ɔ ʔ,a + m i + Σ + n ɔ ʔ,a + Σ + n ɔ + ts e,a + Σ + n ɔ + ts e + u,a + Σ + n ɔ ʔ,a + Σ + n ɔ ʔ,default
+3PL,a + n + m i + Σ + n ɔ ʔ,a + n + m i + Σ + n ɔ ʔ,a + n + m i + Σ + n ɔ ʔ,a + n + Σ + n ɔ + ts e,a + n + Σ + n ɔ + ts e + u,a + n + Σ + n ɔ ʔ,a + n + Σ + n ɔ ʔ,default
