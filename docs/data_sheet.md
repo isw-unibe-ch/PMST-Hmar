@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 Data set name: PMST Hmar
 
 Data set developer(s): Jonathan Reich, Marina Infimate, Sandra Auderset
@@ -47,25 +41,17 @@ For Hmar, it is a version of the community orthography used by speakers.
 
 -   Number of inflected forms per paradigm and subparadigm:
 
-    +----------+--- -+----------------+----+
-    | Paradigm | n   | Tags           | n  |
-    +==========+====:+================+===:+
-    | Pronouns | 7   | default        | 7  |
-    +----------+-----+----------------+----+
-    | NFUT.AFF |  39 | default        | 39 |
-    +----------+-----+----------------+----+
-    | NFUT.NEG |  39 | default        | 39 |
-    +----------+-----+----------------+----+
-    | FUT.AFF  |  78 | default        | 39 |
-    |          |     |                |    |
-    |          |     | pragm.m        | 39 |
-    +----------+-----+----------------+----+
-    | FUT.NEG  | 104 | default        | 37 |
-    |          |     |                |    |
-    |          |     | pragm.m        | 39 |
-    |          |     |                |    |
-    |          |     | emph           | 28 |
-    +----------+-----+----------------+----+
+  | **Paradigm** | **n** | **Tags** | **n** |
+|--------------|------:|----------|------:|
+| Pronouns     |     7 | default  |     7 |
+| NFUT.AFF     |    39 | default  |    39 |
+| NFUT.NEG     |    39 | default  |    39 |
+| FUT.AFF      |    78 | default  |    39 |
+|              |       | pragm.m  |    39 |
+| FUT.NEG      |   104 | default  |    37 |
+|              |       | pragm.m  |    39 |
+|              |       | emph     |    28 |
+
 
 **Language varieties**
 
